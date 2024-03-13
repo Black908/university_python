@@ -1,2 +1,2 @@
 # university-python
-대학교 파이썬 수업내용 모음
+Python 수업 이후 공부
